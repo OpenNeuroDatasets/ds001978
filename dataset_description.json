@@ -1,5 +1,5 @@
 {
-    "Name": "multicue_task",
+    "Name": "Relative Motion and Relative Disparity with central letter task",
     "BIDSVersion": "1.51-rc1",
     "Authors": [
         "Peter J. Kohler", "Benoit R. Cottereau", "Anthony M. Norcia"
